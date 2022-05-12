@@ -1,0 +1,6 @@
+module Pods_TinderClone_TinderCloneTests {
+  umbrella header "Pods-TinderClone-TinderCloneTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
